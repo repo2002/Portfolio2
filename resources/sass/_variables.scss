@@ -1,0 +1,95 @@
+:root {
+    /* Colors */
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --danger: #dc3545;
+    --warning: #ffc107;
+    --info: #17a2b8;
+    --light: #f8f9fa;
+    --dark: #343a40;
+  
+    /* Grays */
+    --gray-100: #f8f9fa; 
+    --gray-200: #e9ecef; 
+    --gray-300: #dee2e6; 
+    --gray-400: #ced4da; 
+    --gray-500: #adb5bd; 
+    --gray-600: #868e96; 
+    --gray-700: #495057; 
+    --gray-800: #343a40; 
+    --gray-900: #212529; 
+  
+    /* Backgrounds */
+    --background-primary: #fff; 
+    --background-secondary: #f0f0f0;
+  
+    /* Text Colors */
+    --text-primary: #212529; 
+    --text-secondary: #495057;
+    --text-muted: #6c757d; 
+  
+    /* Borders */
+    --border-color: #dee2e6; 
+  
+    
+  
+    /* Font Sizes */
+    --font-size-base: 1rem;
+    --font-size-sm: 0.875rem;
+    --font-size-lg: 1.25rem;
+  
+    
+  
+    /* Shadows */
+    --box-shadow-sm: 0 0.25rem 0.25rem rgba(0, 0, 0, 0.05);
+    --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); 
+  }
+  
+  .light-mode {
+    /* Colors */
+    --primary: #007bff; 
+    --secondary: #6c757d;
+    --success: #198754; 
+    --danger: #b02a37; 
+    --warning: #9c7a00; 
+    --info: #0d6efd; 
+    --light: #f8f9fa;
+    --dark: #343a40;
+  
+    /* Grays */
+    --gray-100: #f8f9fa; 
+    --gray-200: #e9ecef; 
+    --gray-300: #dee2e6; 
+    --gray-400: #ced4da; 
+    --gray-500: #adb5bd; 
+    --gray-600: #868e96; 
+    --gray-700: #495057; 
+    --gray-800: #343a40; 
+    --gray-900: #212529; 
+  
+    /* Backgrounds */
+    --background-primary: #fff; 
+    --background-secondary: #f0f0f0;
+  
+    /* Text Colors */
+    --text-primary: #212529; 
+    --text-secondary: #495057;
+    --text-muted: #6c757d; 
+  
+    /* Borders */
+    --border-color: #dee2e6; 
+  
+    
+  
+    /* Font Sizes */
+    --font-size-base: 1rem;
+    --font-size-sm: 0.875rem;
+    --font-size-lg: 1.25rem;
+  
+    
+  
+    /* Shadows */
+    --box-shadow-sm: 0 0.25rem 0.25rem rgba(0, 0, 0, 0.05);
+    --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); 
+  }

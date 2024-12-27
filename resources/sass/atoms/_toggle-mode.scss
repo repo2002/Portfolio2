@@ -1,0 +1,29 @@
+@use '../variables' as *;
+
+.toggleButton {
+    --background: var(--background-primary); 
+    --sec-background: var(--gray-800);
+    --prim-text: var(--light);
+    --paragraph: var(--gray-300);
+    --accent: #FF9800; 
+    --border: var(--gray-700);
+    --sec-button: var(--gray-700);
+    --sec-text: var(--gray-500);
+    --disabled: var(--gray-600);
+    --tag-bg: var(--light);
+    --tag-text: var(--dark);
+  }
+  
+  .light-mode {
+    --background: var(--light);
+    --sec-background: var(--gray-100);
+    --prim-text: var(--dark);
+    --paragraph: var(--gray-700);
+    --accent: #FF9800; 
+    --border: var(--gray-300);
+    --sec-button: var(--gray-200);
+    --sec-text: var(--gray-600);
+    --disabled: var(--gray-400);
+    --tag-bg: var(--dark);
+    --tag-text: var(--light);
+  }
