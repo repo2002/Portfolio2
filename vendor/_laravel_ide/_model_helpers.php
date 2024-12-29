@@ -7,11 +7,11 @@ namespace App\Models {
      *
      * @property \Illuminate\Support\Carbon|null $updated_at
      * @property \Illuminate\Support\Carbon|null $created_at
-     * @property varchar|null $remember_token
+     * @property string|null $remember_token
      * @property hashed $password
      * @property \Illuminate\Support\Carbon|null $email_verified_at
-     * @property varchar $email
-     * @property varchar $name
+     * @property string $email
+     * @property string $name
      * @property int $id
      * @property-read \Illuminate\Database\Eloquent\Collection<int, \Illuminate\Notifications\DatabaseNotification> $notifications
      * @property-read int|null $notifications_count

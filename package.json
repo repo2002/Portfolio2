@@ -21,6 +21,8 @@
         "vite": "^6.0"
     },
     "dependencies": {
-        "react-router-dom": "^7.1.1"
+        "react-responsive": "^10.0.0",
+        "react-router-dom": "^7.1.1",
+        "react-toggle": "^4.1.3"
     }
 }

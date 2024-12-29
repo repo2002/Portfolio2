@@ -1,14 +1,14 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom'; 
-import Navigation from './organisms/navigation';
+import Navigation from './organisms/Navigation';
+// import DarkModeToggle from './atoms/DarkModeToggle';
 
 function Layout() {
   return (
     <div className="container"> 
-      {/* Navigation bar here */}
       <Navigation/>
+      {/* <DarkModeToggle/> */}
       <Outlet /> 
-      {/* Footer here */}
     </div>
   );
 }
